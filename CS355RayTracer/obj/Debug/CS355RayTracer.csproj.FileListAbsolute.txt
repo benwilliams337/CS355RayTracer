@@ -1,0 +1,6 @@
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\bin\Debug\CS355RayTracer.exe.config
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\bin\Debug\CS355RayTracer.exe
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\bin\Debug\CS355RayTracer.pdb
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\obj\Debug\CS355RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\obj\Debug\CS355RayTracer.exe
+C:\Users\BenW\Code\Projects\CS355RayTracer\CS355RayTracer\obj\Debug\CS355RayTracer.pdb
